@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useContext, useEffect } from 'react'
 import { DoctorContext } from './context/DoctorContext'
 import { AdminContext } from './context/AdminContext'

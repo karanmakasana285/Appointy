@@ -127,8 +127,8 @@ const MyAppointments = () => {
 
 
 
-  const simulateStripe = () => toast.info("Redirecting to Stripe...")
-  const simulateRazorpay = () => toast.info("Opening Razorpay...")
+  // const simulateStripe = () => toast.info("Redirecting to Stripe...")
+  // const simulateRazorpay = () => toast.info("Opening Razorpay...")
 
   return (
     <div>
